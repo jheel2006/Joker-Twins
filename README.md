@@ -1,4 +1,4 @@
-# memory-game
+# joker-twins
 Joker Twins is a modified version of the classical Memory game, a game that has long been a favorite game for all generations. In fact it is so simple that very young children can play it with ease. It requires observation, concentration and a good memory to win. The game is also known as Concentration, Pelmanism, Shinkei-suijaku, Pexeso and Pairs. An example of the classical memory game can be played here:
 https://www.helpfulgames.com/subjects/brain-training/memory.html
 
